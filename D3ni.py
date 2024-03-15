@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("D3niix.py").main()
+    __import__("Multid3nix_enc.py").main()
 except Exception as e:
     exit(str(e)
